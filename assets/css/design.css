@@ -34,7 +34,7 @@
   --type-h3:      clamp(1.15rem, 2vw, 1.55rem); /* prose h3; ci-h3/srv-h3 are documented exceptions */
   --type-body:    1.05rem;                       /* primary body copy */
   --type-body-sm: 0.9rem;                        /* supporting body copy */
-  --type-meta:    0.62rem;                       /* mono labels, tags, kickers */
+  --type-meta:    0.68rem;                       /* mono labels, tags, kickers */
 }
 
 /* ═══════════════════════════════════════════════════════
